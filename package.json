@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/xaoxuu/site-info-api.git"
+    "url": "https://github.com/Tgzzxsg/site-info-api.git"
   },
   "keywords": [
     "api"
   ],
-  "author": "[@xaoxuu](https://github.com/xaoxuu/)",
+  "author": "[@tgzzxsg](https://github.com/Tgzzxsg/)",
   "license": "MIT",
   "dependencies": {
     "jsdom": "^20.0.2"
   },
-  "homepage": "https://github.com/xaoxuu/"
+  "homepage": "https://github.com/Tgzzxsg/"
 }
